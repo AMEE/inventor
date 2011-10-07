@@ -1,0 +1,8 @@
+bin
+obj
+UpgradeLog*
+_UpgradeReport_Files
+Backup
+*.suo
+
+/AMEEMaterials/Resources/AMEE.xml
