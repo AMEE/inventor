@@ -1,3 +1,6 @@
+// Copyright (C) 2011 AMEE UK Ltd. - http://www.amee.com
+// Released as Open Source Software under the BSD 3-Clause license. See LICENSE.txt for details.
+
 using System;
 using System.Runtime.InteropServices;
 using System.Collections;
@@ -5,6 +8,8 @@ using System.Drawing;
 using System.Windows.Forms;
 using Microsoft.VisualBasic.Compatibility.VB6;
 using Inventor;
+
+// Borrowed from the Inventor SDK SimpleAddIn sample
 
 namespace AMEEMaterials
 {
