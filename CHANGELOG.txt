@@ -1,0 +1,8 @@
+= Changelog
+
+== 0.2.0
+ * Added open source license details
+ 
+== 0.1.0
+ * Initial release
+ * Does calculations for individual parts based on a subset of ICE v2.
